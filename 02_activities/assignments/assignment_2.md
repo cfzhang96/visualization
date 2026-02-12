@@ -10,21 +10,26 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    Bad example: 
+    First figure of this article: https://readwrite.com/10_ways_to_archive_your_tweets/
+    This is a pie chart that wants to display the top 100 most active Twitter users using a pie chart, which is an inappropriate chart type for such a large number of categories. The result is very hard to read and differentiate one category from another especially in lower rank categories and even colour code . This chart presented too much information that can be effectively held in a visulazation type like this.
 
-
-
-
-
-
+    Good example: 
+    I added Pdf file to the folder.
+    This is paper from a lab that in general presents good visulization: https://www.nature.com/articles/s41588-021-00927-7. I'll take Figure 2C as the example. 
+    This figure uses a volcano plot, which is an appropriate and widely accepted visualization for displaying differential analysis results. The x-axis represents the effect size (DNA methylation difference), while the y-axis represents statistical significance (−log₁₀(P)). This allows viewers to simultaneously assess both the magnitude and significance of changes, which is exactly the goal of the analysis.
+    Both axes are clearly labeled with units and transformations. The directionality of methylation differences is explicitly annotated (“Hypomethylated in AC/MES-like” vs “NPC/OPC-like”). The center (zero difference) is clearly marked, making interpretation intuitive
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+    Bad example:
+    The visualization could be significantly improved by changing both the chart type and the scope of the data displayed. Instead of using a pie chart, a ranked bar chart would allow viewers to more easily compare the activity levels of different users. Bar charts are better suited for precise comparison, especially when dealing with many categories.
 
+    Additionally, the number of categories shown should be reduced. Displaying the top 10 or top 20 users would make the visualization clearer and more interpretable, while still conveying the main insight about user activity. If the goal is to show the overall distribution, alternative approaches such as a cumulative distribution plot or grouping smaller contributors into an “Others” category could be used.
 
-
+    Good example:
+    This is really one of most neat example I ever read in the field, if I really have to pick something, maybe change the colour of the non-highlited points lighter, so the highlighted ones will pop mout more.
 
 
 
